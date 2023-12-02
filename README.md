@@ -8,6 +8,6 @@ git clone https://github.com/8r47/FoundYou.git &&
 
 cd FoundYou &&
 
-pip install requirements.txt &&
+pip install -r requirements.txt &&
 
 python3 foundyou.py
