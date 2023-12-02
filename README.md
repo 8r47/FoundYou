@@ -4,10 +4,10 @@ Will add more websites and features in the upcoming future!
 
 
 # Installation
-git clone https://github.com/8r47/FoundYou.git
+git clone https://github.com/8r47/FoundYou.git &&
 
-cd FoundYou
+cd FoundYou &&
 
-pip install requirements.txt
+pip install requirements.txt &&
 
 python3 foundyou.py
